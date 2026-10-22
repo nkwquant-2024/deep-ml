@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:54:48.709Z",
+  "generated_at": "2026-10-22T18:00:39.645Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -124,6 +124,19 @@
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-10-21T19:54:47.883Z",
       "last_pushed_at": "2026-10-21T19:54:47.883Z"
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-10-22T18:00:38.920Z",
+      "last_pushed_at": "2026-10-22T18:00:38.920Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
