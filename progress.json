@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:52:17.447Z",
+  "generated_at": "2026-10-25T20:47:41.876Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -215,6 +215,17 @@
       "last_pushed_at": "2026-10-25T18:52:16.742Z",
       "language": "python",
       "lines": 7
+    },
+    "math:21": {
+      "kind": "math",
+      "id": "21",
+      "title": "Common Distributions I: Bernoulli, Binomial, Uniform",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/21",
+      "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
+      "first_solved_at": "2026-10-25T20:47:41.114Z",
+      "last_pushed_at": "2026-10-25T20:47:41.114Z"
     }
   }
 }
