@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T20:25:59.327Z",
+  "generated_at": "2026-11-02T21:44:02.374Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -456,6 +456,19 @@
       "last_pushed_at": "2026-11-01T20:25:58.678Z",
       "language": "sql",
       "lines": 14
+    },
+    "problem:1113": {
+      "kind": "problem",
+      "id": "1113",
+      "title": "Employees Earning More Than Their Managers",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1113",
+      "path": "problems/1113-employees-earning-more-than-their-managers",
+      "first_solved_at": "2026-11-02T21:44:01.221Z",
+      "last_pushed_at": "2026-11-02T21:44:01.221Z",
+      "language": "sql",
+      "lines": 6
     }
   }
 }
