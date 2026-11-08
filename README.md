@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 36 problems · 0 labs · 6 math
+**43** solved · 37 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-26 | [solution](problems/0009-matrix-times-matrix) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-11-06 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-01 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-11-08 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-11-01 | [solution](problems/1111-top-3-salaries-per-department) |
 
 ## Math
