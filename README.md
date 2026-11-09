@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 37 problems · 0 labs · 6 math
+**44** solved · 38 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-11-07 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-11-02 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-11-04 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
+| [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-11-09 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-26 | [solution](problems/0009-matrix-times-matrix) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-11-06 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-01 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
