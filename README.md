@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 39 problems · 0 labs · 6 math
+**46** solved · 40 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-31 | [solution](problems/1109-your-first-join) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-25 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-11-07 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
+| [Cumulative Percentage of Scores by Bucket Within Each Grade](https://www.deep-ml.com/problems/1463) | medium | 2026-11-11 | [solution](problems/1463-cumulative-percentage-of-scores-by-bucket-within-each-grade) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-11-02 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-11-04 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-11-09 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
