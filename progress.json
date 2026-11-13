@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:37:26.712Z",
+  "generated_at": "2026-11-13T19:45:24.931Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -599,6 +599,19 @@
       "last_pushed_at": "2026-11-12T20:37:25.698Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:1552": {
+      "kind": "problem",
+      "id": "1552",
+      "title": "Rolling Average over a Daily Series with Missing Dates",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1552",
+      "path": "problems/1552-rolling-average-over-a-daily-series-with-missing-dates",
+      "first_solved_at": "2026-11-13T19:45:24.209Z",
+      "last_pushed_at": "2026-11-13T19:45:24.209Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
