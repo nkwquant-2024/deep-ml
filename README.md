@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**54** solved · 48 problems · 0 labs · 6 math
+**55** solved · 49 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-11-16 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-18 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-28 | [solution](problems/1101-select-all-rows) |
+| [Select Rows and Columns with Boolean Masks](https://www.deep-ml.com/problems/2320) | easy | 2026-11-20 | [solution](problems/2320-select-rows-and-columns-with-boolean-masks) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-29 | [solution](problems/1102-select-specific-columns) |
 | [Simulate Two-Dice Sum Distribution](https://www.deep-ml.com/problems/1139) | easy | 2026-11-19 | [solution](problems/1139-simulate-two-dice-sum-distribution) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-30 | [solution](problems/1104-sort-results-with-order-by) |
