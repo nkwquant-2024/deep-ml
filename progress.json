@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:35:28.191Z",
+  "generated_at": "2026-11-21T18:58:22.006Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -703,6 +703,19 @@
       "last_pushed_at": "2026-11-20T14:35:27.444Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1146": {
+      "kind": "problem",
+      "id": "1146",
+      "title": "Monte Carlo Estimate of Expected Value in a Bidding Game",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/1146",
+      "path": "problems/1146-monte-carlo-estimate-of-expected-value-in-a-bidding-game",
+      "first_solved_at": "2026-11-21T18:58:20.858Z",
+      "last_pushed_at": "2026-11-21T18:58:20.858Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
