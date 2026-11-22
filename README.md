@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 50 problems · 0 labs · 6 math
+**57** solved · 51 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-11-04 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-11-09 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-26 | [solution](problems/0009-matrix-times-matrix) |
+| [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-22 | [solution](problems/0007-matrix-transformation) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-11-06 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Monte Carlo Estimate of Expected Value in a Bidding Game](https://www.deep-ml.com/problems/1146) | medium | 2026-11-21 | [solution](problems/1146-monte-carlo-estimate-of-expected-value-in-a-bidding-game) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-01 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
