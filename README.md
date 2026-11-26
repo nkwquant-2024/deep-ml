@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 54 problems · 0 labs · 6 math
+**61** solved · 55 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -62,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-22 | [solution](problems/0007-matrix-transformation) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-11-06 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Monte Carlo Estimate of Expected Value in a Bidding Game](https://www.deep-ml.com/problems/1146) | medium | 2026-11-21 | [solution](problems/1146-monte-carlo-estimate-of-expected-value-in-a-bidding-game) |
+| [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-11-26 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-01 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-11-08 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
 | [Rolling Average over a Daily Series with Missing Dates](https://www.deep-ml.com/problems/1552) | medium | 2026-11-13 | [solution](problems/1552-rolling-average-over-a-daily-series-with-missing-dates) |
