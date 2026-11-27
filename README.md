@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**61** solved · 55 problems · 0 labs · 6 math
+**62** solved · 56 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-27 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-21 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-22 | [solution](problems/0083-dot-product-calculator) |
+| [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-11-27 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Exponential Distribution PDF and CDF](https://www.deep-ml.com/problems/340) | easy | 2026-11-10 | [solution](problems/0340-exponential-distribution-pdf-and-cdf) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-29 | [solution](problems/1103-filter-rows-with-where) |
 | [First Look at a Table: Shape, Types, Missing Values and Unique Counts](https://www.deep-ml.com/problems/2319) | easy | 2026-11-14 | [solution](problems/2319-first-look-at-a-table-shape-types-missing-values-and-unique-counts) |
